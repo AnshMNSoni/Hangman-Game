@@ -5,6 +5,11 @@ The objective of Hangman is to guess a hidden word by suggesting letters within 
 
 ---
 
+### 👉 Preview:
+<img width="486" height="657" alt="image" src="https://github.com/user-attachments/assets/f26dd528-f63e-4f84-b758-eca35d478da4" />
+
+---
+
 ### 👉 Setup:
 1. **Word Selection:** One player (or the game system) chooses a word or phrase, which is kept hidden from the guessing player(s).
 2. **Display:** The chosen word is represented by a series of blank spaces (underscores) corresponding to each letter in the word. For example, the word "apple" would be displayed as "_ _ _ _ _".
